@@ -62,18 +62,6 @@ Aqui estão alguns exemplos dos gráficos que o projeto gera:
 
 ---
 
-## 🤝 Contribuições
-
-Sinta-se à vontade para abrir issues ou pull requests para melhorias ou sugestões!
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 ## ✉️ Contato
 
 * **Guilherme Rodrigues** - [Guilherme Rodrigues](https://www.linkedin.com/in/guilhrodrigues/)
