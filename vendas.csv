@@ -1,0 +1,11 @@
+ID_Venda,Data_Venda,Nome_Produto,Categoria_Produto,Preco_Unitario,Quantidade_Vendida,Cliente_ID,Regiao_Cliente
+1,2025-06-01,Smartphone X,Eletronicos,1500.00,1,C001,Sudeste
+2,2025-06-01,Fone de Ouvido Y,Eletronicos,250.50,2,C002,Sul
+3,2025-06-02,Camiseta Basica,Roupas,50.00,3,C001,Sudeste
+4,2025-06-02,Livro Python,Livros,75.90,1,C003,Nordeste
+5,2025-06-03,Notebook Z,Eletronicos,3000.00,1,C004,Sudeste
+6,2025-06-03,Calca Jeans,Roupas,120.00,1,C002,Sul
+7,2025-06-04,Mouse sem fio,Eletronicos,80.00,2,C005,Centro-Oeste
+8,2025-06-04,Mochila Escolar,Acessorios,95.00,1,C003,Nordeste
+9,2025-06-05,Teclado Mecanico,Eletronicos,400.00,1,C001,Sudeste
+10,2025-06-05,Smartwatch,Eletronicos,800.00,1,C006,Sudeste
