@@ -44,6 +44,14 @@ Este projeto em Python é uma solução para a **análise de dados de vendas de 
 
 ---
 
+## 📖 Análise Detalhada e Explicação do Código
+
+Para uma compreensão aprofundada de cada etapa do projeto, incluindo as transformações de dados, lógica das classes e visualizações, consulte o notebook Jupyter dedicado:
+
+[Acessar Notebook de Explicação Detalhada](Analise_E-commerce_Explicada.ipynb)
+
+---
+
 ## 📈 Exemplos de Relatórios Gerados
 
 Aqui estão alguns exemplos dos gráficos que o projeto gera:
