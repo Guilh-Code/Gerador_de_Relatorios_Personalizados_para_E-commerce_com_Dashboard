@@ -58,6 +58,14 @@ O objetivo principal é transformar dados brutos de transações em **informaç�
 
 ---
 
+## 📖 Análise Detalhada e Explicação do Código
+
+Para uma compreensão aprofundada de cada etapa do projeto, incluindo as transformações de dados, lógica das classes e visualizações, consulte o notebook Jupyter dedicado:
+
+[Acessar Notebook de Explicação Detalhada](Analise_E-commerce_Explicada.ipynb)
+
+---
+
 ## 🎓 Resultados e Aprendizados
 
 Este projeto serviu como uma **experiência prática e aprofundada** em um pipeline de Data Science. Através dele, foram consolidados conhecimentos em:
@@ -67,18 +75,6 @@ Este projeto serviu como uma **experiência prática e aprofundada** em um pipel
 * Comunicação de resultados através de visualizações eficazes.
 * Interação com sistemas de banco de dados.
 * Aplicação de princípios de **POO** para desenvolver código organizado e de fácil manutenção.
-
----
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-* **Python:** Linguagem de programação principal.
-* **Pandas:** Manipulação e análise de dados tabulares.
-* **Matplotlib:** Geração de gráficos estáticos.
-* **Seaborn:** Biblioteca de visualização de dados baseada em Matplotlib, para gráficos mais estéticos.
-* **SQLite3:** Banco de dados relacional leve para persistência de dados.
 
 ---
 
@@ -97,14 +93,6 @@ Este projeto serviu como uma **experiência prática e aprofundada** em um pipel
 │   └── vendas_por_regiao.png
 
 └── main.py ------------ # Script principal do projeto
-
----
-
-## 📖 Análise Detalhada e Explicação do Código
-
-Para uma compreensão aprofundada de cada etapa do projeto, incluindo as transformações de dados, lógica das classes e visualizações, consulte o notebook Jupyter dedicado:
-
-[Acessar Notebook de Explicação Detalhada](Analise_E-commerce_Explicada.ipynb)
 
 ---
 
