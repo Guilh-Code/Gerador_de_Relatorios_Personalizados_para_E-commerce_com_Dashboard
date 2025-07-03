@@ -9,3 +9,11 @@ ID_Venda,Data_Venda,Nome_Produto,Categoria_Produto,Preco_Unitario,Quantidade_Ven
 8,2025-06-04,Mochila Escolar,Acessorios,95.00,1,C003,Nordeste
 9,2025-06-05,Teclado Mecanico,Eletronicos,400.00,1,C001,Sudeste
 10,2025-06-05,Smartwatch,Eletronicos,800.00,1,C006,Sudeste
+11,2025-06-01,Smartphone X,Eletronicos,1500.00,1,C001,Sudeste
+12,2025-06-01,Fone de Ouvido Y,Eletronicos,250.50,2,C002,Sul
+13,2025-06-02,Camiseta Basica,Roupas,50.00,3,C001,Sudeste
+14,2025-06-02,Livro Python,Livros,75.90,1,C003,Nordeste
+15,2025-07-10,Webcam HD,Eletronicos,180.00,1,C007,Norte
+16,2025-07-15,Cinto de Couro,Acessorios,60.00,2,C008,Sudeste
+17,2025-08-01,Curso Online ML,Livros,500.00,1,C009,Sul
+18,2025-08-05,Monitor Ultrawide,Eletronicos,1200.00,1,C010,Nordeste
