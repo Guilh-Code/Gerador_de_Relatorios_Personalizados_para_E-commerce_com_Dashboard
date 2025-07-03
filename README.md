@@ -28,12 +28,11 @@ Este projeto em Python é uma solução para a **análise de dados de vendas de 
 
 ## 📂 Estrutura do Projeto
 
-.
-├── vendas.csv                  # Dados de vendas simulados
+├── vendas.csv                     # Dados de vendas simulados
 
-├── ecommerce_data.db           # Banco de dados SQLite gerado pelo script
+├── ecommerce_data.db              # Banco de dados SQLite gerado pelo script
 
-├── relatorios_imagens/         # Diretório onde os gráficos PNG são salvos
+├── relatorios_imagens/            # Diretório onde os gráficos PNG são salvos
 
 │   ├── vendas_por_categoria.png
 
@@ -41,4 +40,4 @@ Este projeto em Python é uma solução para a **análise de dados de vendas de 
 
 │   └── vendas_por_regiao.png
 
-└── main.py  # Script principal do projeto
+└── main.py               # Script principal do projeto
