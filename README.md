@@ -28,11 +28,11 @@ Este projeto em Python é uma solução para a **análise de dados de vendas de 
 
 ## 📂 Estrutura do Projeto
 
-├── vendas.csv                     # Dados de vendas simulados
+├── vendas.csv ------------ # Dados de vendas simulados
 
-├── ecommerce_data.db              # Banco de dados SQLite gerado pelo script
+├── ecommerce_data.db ------------ # Banco de dados SQLite gerado pelo script
 
-├── relatorios_imagens/            # Diretório onde os gráficos PNG são salvos
+├── relatorios_imagens/ ------------ # Diretório onde os gráficos PNG são salvos
 
 │   ├── vendas_por_categoria.png
 
@@ -40,4 +40,41 @@ Este projeto em Python é uma solução para a **análise de dados de vendas de 
 
 │   └── vendas_por_regiao.png
 
-└── main.py               # Script principal do projeto
+└── main.py ------------ # Script principal do projeto
+
+---
+
+## 📈 Exemplos de Relatórios Gerados
+
+Aqui estão alguns exemplos dos gráficos que o projeto gera:
+
+### Vendas Totais por Categoria de Produto
+
+![Vendas por Categoria](relatorios_imagens/vendas_por_categoria.png)
+
+### Vendas Totais por Região do Cliente
+
+![Vendas por Região](relatorios_imagens/vendas_por_regiao.png)
+
+### Tendência de Vendas Totais por Mês
+
+![Vendas por Mês](relatorios_imagens/vendas_por_mes.png)
+
+---
+
+## 🤝 Contribuições
+
+Sinta-se à vontade para abrir issues ou pull requests para melhorias ou sugestões!
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+## ✉️ Contato
+
+* **Guilherme Rodrigues** - [Guilherme Rodrigues](https://www.linkedin.com/in/guilhrodrigues/)
+* **Guilh-Code** - [https://github.com/Guilh-Code](https://github.com/Guilh-Code)
